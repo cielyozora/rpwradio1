@@ -30,10 +30,7 @@
 </head>
 <body id="main_body" >
 	
-	<img id="top" src="banner.png" alt="">
 	<div id="form_container">
-	
-		<h1><a>RPW RADIO1</a></h1>
 		<?var url = getUrl();?>
 		<form id="form_15207" class="appnitro" enctype="multipart/form-data" method="post" name="google-sheet">
 					<div class="form_description">
