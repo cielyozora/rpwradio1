@@ -30,7 +30,7 @@
 <body id="main_body" >
 	
 	<div id="form_container">
-		<?var url = getUrl();?>
+		
 		<form id="form_15207" class="appnitro" enctype="multipart/form-data" method="post" name="google-sheet">
 					<div class="form_description">
 			<h2>RPWRADIO1 Submission site</h2>
